@@ -1,0 +1,2 @@
+class Kirtan < ApplicationRecord
+end
