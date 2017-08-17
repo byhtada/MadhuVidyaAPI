@@ -109,6 +109,7 @@
     <orderEntry type="library" scope="PROVIDED" name="actionmailer (v5.0.5, ruby-2.3.3-p222 (1)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionpack (v5.0.5, ruby-2.3.3-p222 (1)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionview (v5.0.5, ruby-2.3.3-p222 (1)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="active_model_serializers (v0.8.3, ruby-2.3.3-p222 (1)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activejob (v5.0.5, ruby-2.3.3-p222 (1)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v5.0.5, ruby-2.3.3-p222 (1)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v5.0.5, ruby-2.3.3-p222 (1)) [gem]" level="application" />
